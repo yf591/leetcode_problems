@@ -29,8 +29,8 @@ class Solution:
 
             # Calculate the total sum of the two digits and the carry
             total = val1 + val2 + carry
-            carry = total // 10
-            digit = total % 10
+            carry = total // 10  # Carry for next digit
+            digit = total % 10  # Get the last digit to store in the result
 
             # Create a new node with the digit and append it to the result list
             current.next = ListNode(digit)
