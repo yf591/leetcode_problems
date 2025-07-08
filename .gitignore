@@ -1,0 +1,57 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Test coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Personal notes and solutions (if you want to keep them private)
+notes/
+personal_solutions/
+
+# Input/output files for testing
+input.txt
+output.txt
+test_*.txt
+
+# Compiled executables (for C++/Java solutions)
+*.exe
+*.out
+*.class
+
+# LeetCode session files
+leetcode_session.json
+cookies.txt
