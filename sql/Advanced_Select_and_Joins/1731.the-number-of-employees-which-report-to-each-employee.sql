@@ -6,7 +6,7 @@ SELECT
 FROM
     Employees AS e1
 JOIN
-    Employees AS e2 ON e1.reports_to = e2.reports_to
+    Employees AS e2 ON e1.reports_to = e2.employee_id
 GROUP BY
     e2.employee_id
 ORDER BY
