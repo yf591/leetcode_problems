@@ -15,4 +15,4 @@ FROM
 GROUP BY
     employee_id
 HAVING
-    COUNT(employee_id) = 1;    
+    COUNT(employee_id) = 1;
