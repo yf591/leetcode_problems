@@ -15,6 +15,7 @@ class Solution:
     def addTwoNumbers(
         self, l1: Optional[ListNode], l2: Optional[ListNode]
     ) -> Optional[ListNode]:
+
         dummy = ListNode(
             0
         )  # Create a dummy node to simplify the result list construction
