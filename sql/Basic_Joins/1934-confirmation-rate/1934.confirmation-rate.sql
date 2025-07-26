@@ -26,7 +26,8 @@ Table: Confirmations
 (user_id, time_stamp) is the primary key (combination of columns with unique values) for this table.
 user_id is a foreign key (reference column) to the Signups table.
 action is an ENUM (category) of the type ('confirmed', 'timeout')
-Each row of this table indicates that the user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').
+Each row of this table indicates that the user with ID user_id requested a confirmation message at 
+time_stamp and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').
 ```
 
 The confirmation rate of a user is the number of 'confirmed' messages divided by 
