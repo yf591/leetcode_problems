@@ -1,3 +1,7 @@
+-- Language: PostgreSQL
+-- or
+-- Language: MySQL
+
 /*
 
 1204. Last Person to Fit in the Bus
