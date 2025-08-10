@@ -1,19 +1,63 @@
 # My LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems.
+This repository contains my solutions to various LeetCode problems, organized by categories and topics.
 
-## Purpose
-* To practice algorithms and data structures.
-* To improve my problem-solving skills.
-* To track my progress on LeetCode.
+## 🎯 Purpose
+* Practice algorithms and data structures
+* Improve problem-solving skills
+* Track progress on LeetCode problems
+* Build a comprehensive reference for coding interviews
 
-## Languages Used
-* Python (Primary)
-* C++
+## 💻 Languages Used
+* **Python3** (Primary) - Algorithm problems
+* **SQL** - Database problems
 
-## How to Navigate
-Solutions are typically organized by problem number or topic. Each problem's solution will be in its own directory or file.
+## 📁 Repository Structure
+
+### Algorithm Problems
+- **`problem_list/`** - Individual problems organized by problem number
+- **`top_interview_150/`** - LeetCode Top Interview 150 questions organized by topic.
+  - Array & String
+  - Two Pointers & Sliding Window
+  - Linked List & Binary Tree
+  - Dynamic Programming (1D & Multidimensional)
+  - Graph Algorithms (BFS & General)
+  - Data Structures (Stack, Heap, Trie, etc.)
+  - Advanced Topics (Backtracking, Bit Manipulation, etc.)
+
+### SQL Problems
+- **`sql/`** - Database problems categorized by difficulty and topic.
+  - **Select** - Basic SELECT queries
+  - **Basic Joins** - JOIN operations
+  - **Advanced Select and Joins** - Complex JOIN scenarios
+  - **Basic Aggregate Functions** - COUNT, SUM, AVG, etc.
+  - **Sorting and Grouping** - ORDER BY, GROUP BY, HAVING
+  - **Subqueries** - Nested queries and complex analysis
+  - **Advanced String Functions & Regex** - Text processing
+
+## 🚀 How to Navigate
+
+### By Problem Type
+- **Algorithm Practice**: Browse `problem_list/` for individual problems or `top_interview_150/` by topic
+- **SQL Practice**: Explore `sql/` directory organized by SQL concepts
+
+### By Difficulty
+- Each directory contains problems of mixed difficulties
+- Problem numbers indicate original LeetCode problem IDs
+
+### File Organization
+- Each problem includes:
+  - Solution code with detailed comments
+  - Problem statement and examples
+  - README.md with explanation (for complex problems)
+
+## 🛠️ Development Environment
+- Python 3.x with virtual environment (`.venv/`)
+- SQL solutions tested on MySQL/PostgreSQL
+- VS Code configuration included (`.vscode/`)
 
 ---
 
-Feel free to explore!
+💡 **Feel free to explore and learn from these solutions!**
+
+📝 **Note**: Solutions include detailed explanations and multiple approaches where applicable.
