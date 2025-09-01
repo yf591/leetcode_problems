@@ -16,14 +16,53 @@ This repository contains my solutions to various LeetCode problems, organized by
 
 ### Algorithm Problems
 - **`problem_list/`** - Individual problems organized by problem number
+- **`leetcode_75/`** - LeetCode Top Interview 75 questions organized by topic. 
+  - Array / String
+  - Two Pointers
+  - Sliding Window
+  - Prefix Sum
+  - Hash Map / Set
+  - Stack
+  - Queue
+  - Linked List
+  - Binary Tree - DFS
+  - Binary Tree - BFS
+  - Binary Search Tree
+  - Graphs - DFS
+  - Graphs - BFS
+  - Heap / Priority Queue
+  - Binary Search
+  - Backtracking
+  - DP - 1D
+  - DP - Multidimensional
+  - Bit Manipulation
+  - Trie
+  - Intervals
+  - Monotonic Stack
 - **`top_interview_150/`** - LeetCode Top Interview 150 questions organized by topic.
-  - Array & String
-  - Two Pointers & Sliding Window
-  - Linked List & Binary Tree
-  - Dynamic Programming (1D & Multidimensional)
-  - Graph Algorithms (BFS & General)
-  - Data Structures (Stack, Heap, Trie, etc.)
-  - Advanced Topics (Backtracking, Bit Manipulation, etc.)
+  - Array / String
+  - Two Pointers
+  - Sliding Window
+  - Matrix
+  - Hashmap
+  - Intervals
+  - Stack
+  - Linked List
+  - Binary Tree General
+  - Binary Tree BFS
+  - Binary Search Tree
+  - Graph General
+  - Graph BFS
+  - Trie
+  - Backtracking
+  - Divide & Conquer
+  - Kadane's Algorithm
+  - Binary Search
+  - Heap
+  - Bit Manipulation
+  - Math
+  - 1D DP
+  - Multidimensional DP
 
 ### SQL Problems
 - **`sql/`** - Database problems categorized by difficulty and topic.
