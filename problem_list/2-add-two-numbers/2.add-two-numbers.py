@@ -41,7 +41,8 @@ class Solution:
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
 
-        return dummy.next  # Return the next node of dummy to skip the initial zero node
+        # Return the next node of dummy to skip the initial zero node
+        return dummy.next
 
 
 # @lc code=end
